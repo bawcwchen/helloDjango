@@ -3,7 +3,7 @@
 """
 
 
-class User(object):  # object是一个class
+class User(object):  # User继承object,object是一个class,相当于java中的Object,所有类都会继承
     def __init__(self, name, age):  # __init__相当于是构造函数
         self.name = name
         self.age = age
