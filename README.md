@@ -1,2 +1,2 @@
 # helloDjango
-python Django
+Django 框架学习
